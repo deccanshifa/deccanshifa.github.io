@@ -23,3 +23,8 @@
   .gallery-grid{grid-template-columns:1fr;grid-auto-rows:190px}.gallery-large{grid-column:auto}
   .cta-actions{width:100%}.cta-actions .btn{width:100%}
 }
+
+@media (max-width:575.98px){
+  .brand-logo{height:48px;max-width:190px}
+  .footer-logo{height:54px;max-width:210px}
+}
